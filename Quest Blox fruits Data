@@ -1,4 +1,4 @@
-local QuestsData = {QuestsNames, Quests}
+local QuestsData = {QuestsNames, Quests} 
 
 local Quests = {
     -- First Sea
